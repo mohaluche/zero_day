@@ -1,1 +1,1 @@
-My first **markdown** text from my *virtual machine*!
+My first **markdown** text from my *virtual machine*
